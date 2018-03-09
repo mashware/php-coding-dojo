@@ -1,5 +1,4 @@
 # PHP coding dojo project
-
 ## Setup
 
 To install the project:
