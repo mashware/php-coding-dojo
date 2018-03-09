@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+    kata_minesweeper:
+        build:
+          context: docker
+        container_name: kata_minesweeper
+        volumes:
+            - ./:/var/www/html
